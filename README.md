@@ -1,3 +1,7 @@
+### 2 POINTS
+### KEY: Not bad, but expected u to slay number one as
+### I have seen your crtical thinking skills really improve.
+
 # Python Review Misc Topics
 
 ### Problem 1:
